@@ -1274,6 +1274,7 @@ body {
   
   .comment-form__actions {
     flex-direction: column;
+    margin-top: 20px;
   }
 }
 @media (max-width: 576px) {
